@@ -8,11 +8,11 @@ Source: [World Population Dataset](https://data360.worldbank.org/en/indicator/WB
 
 *Perform data cleaning, exploration, and Dashboard in Excel
 *Use SQL to clean data, query and summarize population data
-*Conduct data analysis and visualization in Python (Pandas, Matplotlib, Seaborn)
-*Build interactive dashboards in Power BI
+*Clean Data, Conduct data analysis and visualization in Python (Pandas, Matplotlib, Seaborn)
+*Use Power Query and Build interactive dashboards in Power BI
 *Compare how each tool helps in understanding global population trends
 
-Tools & Technologies
+Tools & Technologies:
 Excels
 SQL
 Python
