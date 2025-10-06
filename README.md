@@ -6,11 +6,11 @@ Source: [World Population Dataset](https://data360.worldbank.org/en/indicator/WB
 
 🧠 Objectives
 
-*Perform data cleaning, exploration, and Dashboard in Excel
+*Perform data cleaning, using power query, exploration, and Dashboard in Excel
 
 *Use SQL to clean data, query and summarize population data
 
-*Clean Data, Conduct data analysis and visualization in Python (Pandas, Matplotlib, Seaborn)
+*Clean Data, Conduct data analysis and visualization in Python (Pandas, Matplotlib, Seaborn, Numpy)
 
 *Use Power Query and Build interactive dashboards in Power BI
 
