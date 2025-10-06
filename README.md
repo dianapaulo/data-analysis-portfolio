@@ -17,8 +17,8 @@ Source: [World Population Dataset](https://data360.worldbank.org/en/indicator/WB
 *Compare how each tool helps in understanding global population trends
 
 
-Tools & Technologies:
 
+Tools & Technologies:
 Excels  
 SQL  
 Python  
