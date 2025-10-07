@@ -8,7 +8,7 @@ Explore my interactive Power BI dashboard created for the **World Population Ana
 
 🧠 *Built with Power BI Desktop and published to the Power BI Service.*
 
-![Power BI Dashboard Preview](POWER_BI/screenshot_powerBi.jpg)
+![Power BI Dashboard Preview](screenshot_powerBi.jpg)
 
 
 
