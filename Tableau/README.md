@@ -1,5 +1,10 @@
-## 🌍 Tableau Dashboard
+
+## 📊 Tableau Dashboard
 
 Interactive dashboard created with **Tableau Public** to explore Airbnb Listings.
+[🔗 **View on Tableau Public**](https://public.tableau.com/views/ProjectAirBnBTableau1/Project1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![View Tableau Dashboard](./screenshot_Tableau.png)](https://public.tableau.com/views/YOUR_DASHBOARD_LINK_HERE)
+🧠 *Built with Tableau Public using the same World Population dataset.*
+
+
+[![View Tableau Dashboard](./screenshot_Tableau.png)](https://public.tableau.com/views/ProjectAirBnBTableau1/Project1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
