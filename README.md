@@ -20,7 +20,9 @@ Source: [World Population Dataset](https://data360.worldbank.org/en/indicator/WB
 <br>
 
 Tools & Technologies:<br>
-Excels  
-SQL  
-Python  
-Power BI  
+- 📊 [Power BI Dashboard](./POWER_BI/README.md)
+- 🐍 [Python Notebook](./PYTHON/Final Python Pandas Project.ipynb)
+- 🧮 [Excel Analysis](./EXCEL/My_Excel_Project.xlsx)
+- 💾 [MYSQL Queries](./MYSQL/world_population_exploratory.sql)
+- 💾 [MYSQL Data Cleaning](./MYSQL/world_population_clean_data_script.sql)
+
